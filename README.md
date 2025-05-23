@@ -1,3 +1,4 @@
+
 # West-lafayette-housing-research
 
 West Lafayette Housing Landscape – Market Research
